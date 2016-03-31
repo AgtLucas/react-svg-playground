@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AgtLucas/react-svg-playground/issues"
   },
-  "homepage": "https://github.com/AgtLucas/react-svg-playground#readme"
+  "homepage": "https://github.com/AgtLucas/react-svg-playground#readme",
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8"
+  }
 }
